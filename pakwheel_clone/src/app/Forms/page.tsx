@@ -1,5 +1,5 @@
 import Link from "next/link"
-import Thankyou from "../Thankyou/page"
+
 export default function Forms(){
     return(
         <div className="my-20 ">
