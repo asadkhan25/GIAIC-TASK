@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+nav{
+  background: linear-gradient(black,rgb(24, 24, 90));
+}
+#sb{
+ margin-top: 5px;
+ margin-bottom: 5px;
+ 
+ 
+}
+#sb a{
+ margin-left: 10px;
+ 
+}
+#sb0{
+  margin-left: 805px;
+ 
+}
+#sb1{
+  margin-left: 12px;
+} 
+#sb2{
+  margin-left: 12px;
+}
+#footer{
+  background: linear-gradient(black,rgb(24, 24, 90));
+}

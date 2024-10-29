@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#navbar{
+  background-color: black;
+  height: 60px;
+  padding-top: 5px;
+}
+.logo{
+  font-size: 25px;
+  color: coral;
+  margin-left: 10px;
+  display: inline;
+ 
+ 
+}
+
+button{
+  background-color: rgb(199, 158, 81);
+  border-radius: 5px;
+  border: 2px solid wheat;
+  width:auto
+}
+input{
+  margin-left: 15px;
+  margin-right: 3px;
+  text-align: center;
+   border-radius:  5px;
+  
+}
+#subnav{
+  margin-left: 370px;
+  display: inline;
+
+}
+.ab{
+  color: white;
+  margin-left: 50px;
+
+  
+}
+
+#content{
+   
+    background-color: rgb(244, 242, 242);
+    text-align: center;
+  
+}
+#link{
+  background-color: black;
+  color: white;
+  font-size: larger;
+}
+h1{
+  font-weight:bolder;
+  font-size: xx-large;
+  text-transform:uppercase;
+}
+
+#footer{
+    background-color: black;
+    color: white;
+    height: 60px;
+    text-align: center;
+    padding-top: 15px;
+}
